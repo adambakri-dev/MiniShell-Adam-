@@ -30,21 +30,37 @@ help
 exit
 
 Welcome to MiniShell! Type 'help' for a list of commands.
+
 C:\Users\watanimall\IdeaProjects\untitled1 > cd college
+
 C:\Users\watanimall\IdeaProjects\untitled1\college > pwd
+
 C:\Users\watanimall\IdeaProjects\untitled1\college
+
 C:\Users\watanimall\IdeaProjects\untitled1\college > mkdir hello.txt
+
 Directory created: hello.txt
+
 C:\Users\watanimall\IdeaProjects\untitled1\college > help
+
 Available commands:
+
   pwd    =>   Print current working directory
+  
   ls     =>   List files and directories
+  
   cd     =>   Change current directory
+  
   mkdir  =>   Create a new directory
+
   touch  =>   Create a new file
+  
   help   =>   Show this help message
+  
   exit   =>   Exit the shell
+  
 C:\Users\watanimall\IdeaProjects\untitled1\college > exit
+
 Goodbye!
 
 

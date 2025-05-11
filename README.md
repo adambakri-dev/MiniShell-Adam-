@@ -28,6 +28,7 @@ cd ..
 help
 
 exit
+## _________________________________________________
 
 Welcome to MiniShell! Type 'help' for a list of commands.
 

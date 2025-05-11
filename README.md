@@ -12,13 +12,21 @@ java college.learnCollege2.MiniShell.MiniShell
 
 ## דוגמה לפקודות שניתן להריץ:
 pwd
+
 ls
+
 mkdir TestFolder
+
 cd TestFolder
+
 touch myfile.txt
+
 ls
+
 cd ..
+
 help
+
 exit
 
 
